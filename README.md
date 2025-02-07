@@ -50,11 +50,7 @@ The model was trained on a labeled dataset of hand gestures, preprocessed using 
 2. The model predicts the sign and displays the result.
 3. For real-time detection, the webcam captures hand signs and predicts them live.
 
-## Contributing
-Contributions are welcome! If you want to improve this project, feel free to fork the repo and submit a pull request.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 For inquiries, contact me at: [2516abhi43@gmail.com](mailto:2516abhi43@gmail.com)
