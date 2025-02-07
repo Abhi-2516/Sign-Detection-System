@@ -1,0 +1,15 @@
+0 Bang Bang
+1 Call Me
+2 Good Job 
+3 Good Luck 
+4 Hello 
+5 Looser
+6 No 
+7 OK
+8 Power
+9 Question
+10 Rock on
+11 Stare
+12 ThankYou
+13 Victory
+14 Yes
